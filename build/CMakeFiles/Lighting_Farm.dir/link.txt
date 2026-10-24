@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lighting_Farm.dir/Lighting_Farm.cpp.o -o Lighting_Farm  libcommon.a /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lighting_Spot.dir/Lighting_Spot.cpp.o -o Lighting_Spot  libcommon.a /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 

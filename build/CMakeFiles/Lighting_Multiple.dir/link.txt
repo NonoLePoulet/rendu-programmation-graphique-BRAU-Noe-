@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lighting_Multiple.dir/Lighting_Multiple.cpp.o -o Lighting_Multiple  libcommon.a /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 

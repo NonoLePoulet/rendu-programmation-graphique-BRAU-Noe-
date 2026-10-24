@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lighting_Materials.dir/Lighting_Materials.cpp.o -o Lighting_Materials  libcommon.a /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a CMakeFiles/common.dir/Camera.cpp.o CMakeFiles/common.dir/ShaderProgram.cpp.o CMakeFiles/common.dir/Mesh.cpp.o CMakeFiles/common.dir/Texture2D.cpp.o
+/usr/bin/ranlib libcommon.a
